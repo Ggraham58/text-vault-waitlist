@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Text Vault monogram">
+  <rect width="1024" height="1024" fill="#F7F3EE"/>
+  <g fill="none" stroke="#1C1917" stroke-width="56" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 340 H724"/>
+    <path d="M512 340 V700"/>
+  </g>
+  <circle cx="724" cy="700" r="28" fill="#C4785A"/>
+</svg>
